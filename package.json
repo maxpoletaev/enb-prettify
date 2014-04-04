@@ -1,0 +1,15 @@
+{
+  "name": "enb-prettify",
+  "version": "0.0.1",
+  "description": "Code formatter for ENB",
+  "keywords": ["enb"],
+  "dependencies": {
+    "js-beautify": "~1.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zenwalker/enb-prettify.git"
+  },
+  "author": "Maxim Shkalin <dt5@bk.ru>",
+  "License": "MIT"
+}
